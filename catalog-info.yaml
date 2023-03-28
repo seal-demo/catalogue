@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: seal-demo/catalogue
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: team-b
   dependencyOf:
