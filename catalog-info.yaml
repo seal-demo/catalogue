@@ -8,7 +8,7 @@ spec:
   type: other
   lifecycle: unknown
   owner: team-b
-dependencyOf:
-  - component:default/carts
-providesApis:
-  - catalogue-api
+  dependencyOf:
+    - component:carts
+  providesApis:
+    - catalogue-api
